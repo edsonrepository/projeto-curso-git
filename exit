@@ -1,0 +1,26 @@
+[33mcommit 52261b1ff45178f4751c774910c880585f97ecd3[m[33m ([m[1;36mHEAD -> [m[1;32mcontato[m[33m, [m[1;31morigin/contato[m[33m)[m
+Author: Edson Costa <edson.costa@conductor.com.br>
+Date:   Sun Jun 28 17:02:17 2020 -0300
+
+    Criando branch contato
+
+ contato.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 1de71ee6bc91e454ee48f705b8dd4a3e0d1708f4[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Edson Costa <edson.costa@conductor.com.br>
+Date:   Sat Jun 27 22:58:13 2020 -0300
+
+    Minha primeira alteracao
+
+ index.html | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit d87c10f35475f1b89dfeedfbadc7bd5f592ea2e4[m
+Author: Edson Costa <edson.costa@conductor.com.br>
+Date:   Sat Jun 27 20:34:28 2020 -0300
+
+    Meu primeiro commit
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
